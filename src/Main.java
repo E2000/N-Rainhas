@@ -13,8 +13,8 @@ public class Main {
   Matriz bidimensional para o tabuleiro de xadrez
   
   Funcionamento do tabuleiro
-  0 = não há ataques nesta posição
-  1 = há ataques nesta posição
+  0 = não há nenhuma rainha nesta posição
+  1 = há uma rainha nesta posição
   */
   
   public static void main(String[] args) {
